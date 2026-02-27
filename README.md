@@ -61,39 +61,39 @@ Built as part of a Full Stack Developer assessment with performance, scalability
 <div align="center">
 
 ###  Login Page
-<img src="./screenshots/0.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/0.png" width="800"/>
 <br/><br/>
 
 ### Dashboard Overview
-<img src="./screenshots/1.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/1.png" width="800"/>
 <br/><br/>
 
 ### Lead List with Filters
-<img src="./screenshots/2.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/2.png" width="800"/>
 <br/><br/>
 
 ###  Lead Detail View
-<img src="./screenshots/3.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/3.png" width="800"/>
 <br/><br/>
 
 ### Activity Timeline
-<img src="./screenshots/4.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/4.png" width="800"/>
 <br/><br/>
 
 ###  AI Generated Follow-up
-<img src="./screenshots/5.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/5.png" width="800"/>
 <br/><br/>
 
 ###  Analytics Section
-<img src="./screenshots/6.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/6.png" width="800"/>
 <br/><br/>
 
 ###  Responsive UI
-<img src="./screenshots/7.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/7.png" width="800"/>
 <br/><br/>
 
 ###  Redis & Performance Demo
-<img src="./screenshots/8.png" width="800"/>
+<img src="https://github.com/Sukhdevsingh123/CRM/blob/main/Screenshots/8.png" width="800"/>
 
 </div>
 
