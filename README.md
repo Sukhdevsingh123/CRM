@@ -208,7 +208,7 @@ Supports efficient cursor-based pagination.
 
 ---
 
-## ⚡ Caching Strategy
+## Caching Strategy
 
 ### Dashboard Analytics
 
